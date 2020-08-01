@@ -6,4 +6,4 @@
 * 20.07.25  [html教程](https://www.imooc.com/learn/9)  26%
 * 20.07.26  [html教程](https://www.imooc.com/learn/9)  67%
 * 20.07.26  [html教程](https://www.imooc.com/learn/9)  100% 接下来开始学JavaScript
-
+* 20.08.01  [js入门](https://www.imooc.com/learn/36)  100% 接下来进阶
